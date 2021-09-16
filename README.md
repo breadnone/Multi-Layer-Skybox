@@ -17,3 +17,8 @@ Hue Shift
 Saturation adjustment  
 
 ![image](https://user-images.githubusercontent.com/64100867/133594669-e0727e35-52b5-422d-aef5-287a532e04ec.png)
+
+
+# To Do  
+SmoothStep everything
+Adjustable rotation
