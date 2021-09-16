@@ -20,7 +20,7 @@ Saturation adjustment
 
 
 # To Do  
-SmoothStep everything
+SmoothStep everything  
 Adjustable rotation
   
 NOTE: It uses normalize position rather rhan ViewDirection
