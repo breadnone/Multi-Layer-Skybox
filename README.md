@@ -23,4 +23,4 @@ Saturation adjustment
 SmoothStep everything  
 Adjustable rotation
   
-NOTE: It uses normalize position rather rhan ViewDirection
+NOTE: It uses normalized position rather than ViewDirection
