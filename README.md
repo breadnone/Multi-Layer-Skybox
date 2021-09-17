@@ -24,3 +24,6 @@ SmoothStep everything
 Adjustable rotation
   
 NOTE: It uses normalized position rather than ViewDirection
+
+# Why Not Just Procedurally Generate the Clouds!?  
+Because it's very expensive, and tend to complicate things, with 2 layer of cubemaps you can make anything in image editor, turn it into hdri, and you're done.
